@@ -1,0 +1,20 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Week 1 - REST API with Express",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "keywords": [],
+  "author": "Derrick Teddy Wongbay <derrickteddywongbay@gmail.com> (https://github.com/Derrick-cyber-dev)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
